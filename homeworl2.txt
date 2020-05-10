@@ -84,7 +84,6 @@ For i = 2 To lastrow
 
 Next i
 
-Min_Percentage = ws.Cells(3, 12).Value
 
 
 For j = 3 To lastrow
